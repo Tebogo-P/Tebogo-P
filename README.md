@@ -9,9 +9,9 @@
   <a href="mailto:piitebogo12@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://tebogo-p.github.io/My-Portfolio-Website">
-    <img src="https://img.shields.io/badge/Portfolio-View_Live_Site-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://tebogo-p.github.io/Matrix-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-View_Live_Site-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 </div>
 
 <br />
