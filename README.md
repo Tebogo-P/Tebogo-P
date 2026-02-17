@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&section=header&text=Tebogo%20Pii&fontSize=80&fontColor=00ff00&animation=fadeIn&fontAlignY=40&desc=Software%20Architecture%20|%20Java%20Specialist%20|%203rd%20Year%20Student&descFontSize=20&descAlignY=75&descAlign=50&stroke=00ff00&strokeWidth=2" alt="Tebogo Pii Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&section=header&text=Tebogo%20Pii&fontSize=80&fontColor=00ff00&animation=fadeIn&fontAlignY=40&desc=Application%20Developer%20|%20Java%20Student%20|%203rd%20Year%20Student&descFontSize=20&descAlignY=75&descAlign=50&stroke=00ff00&strokeWidth=2" alt="Tebogo Pii Header" />
 </div>
 
 <div align="center">
